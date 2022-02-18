@@ -1,0 +1,1 @@
+# Vs.2022.Sln.Example
